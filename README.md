@@ -1,2 +1,3 @@
-# foos-practicals
+# FOSS-practicals
 hello world orignal file
+NEW UPDQATE
